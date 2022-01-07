@@ -1,0 +1,15 @@
+.header nav{
+    padding: 10px;
+    background-color: aqua;
+}
+.header nav a{
+    text-decoration:none;
+    font-weight:500;
+    color:black;
+    margin-right: 15px;
+}
+.header nav a:hover{
+    padding: 5px;
+    background-color: black;
+    color:burlywood;
+}
